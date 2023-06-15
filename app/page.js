@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import { VercelToolbar } from "@vercel/toolbar";
+import { VercelToolbar } from "@vercel/toolbar/next";
 
 export default function Home() {
   return (
